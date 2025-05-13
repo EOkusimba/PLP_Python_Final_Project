@@ -7,6 +7,7 @@ The COVID-19 Global Data Tracker is a data analysis project designed to explore,
 ## Dataset
 
 The project uses the **OWID COVID-19 Data** dataset, which contains COVID-19 data from countries worldwide. The data is stored in a CSV file named **`owid-covid-data.csv`**.
+It was obtained from https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset
 
 ## Key Features
 
